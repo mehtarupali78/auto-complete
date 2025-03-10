@@ -12,7 +12,8 @@ Features
 
 Installation & Setup
 
-### 1️⃣ Clone the Repository
+Clone the Repository
+
 Open your terminal and run:
 
 git clone <repo-link>
